@@ -1,0 +1,28 @@
+body{
+	background-image: url(logo.jpg);
+	background-attachment: fixed;
+	background-size: 900% 100%;
+	background-repeat: no-repeat;
+}
+h1{
+	font-size: 40px;
+	font-family: fantasy;
+	color: #B8860B;
+	text-align: left;
+	text-decoration: ;
+}
+h2{
+	font-size: 20px;
+	font-family: helvetica;
+	color: #000080;
+}
+a{
+	font-size: 20px;
+	font-family: Helvetica;
+	color: #FFFF00;
+	position: relative;
+	top: -8px;
+}
+table{
+	text-align: left;
+}
